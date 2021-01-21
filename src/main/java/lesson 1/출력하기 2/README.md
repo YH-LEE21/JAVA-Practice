@@ -7,6 +7,8 @@
 
 * Hello World
 
+***
+
 입력 예시|출력 예시|
 |:--|:--
 "none"|Hello World|
