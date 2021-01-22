@@ -11,4 +11,4 @@
 ***
 입력 예시| 출력예시       |
 |:--    |:--
-"none"  |"Hello","World"|
+"none"  |Hello,World|
