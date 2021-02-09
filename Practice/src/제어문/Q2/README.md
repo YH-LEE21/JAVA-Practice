@@ -18,3 +18,4 @@
 
 ##### 출력 예시
 <img src = "https://javaconceptoftheday.com/wp-content/uploads/2016/08/DiamondPatternProgram.png">
+* 이미지 출처- https://javaconceptoftheday.com/diamond-pattern-program-in-java/
