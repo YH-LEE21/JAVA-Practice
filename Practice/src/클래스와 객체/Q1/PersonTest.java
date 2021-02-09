@@ -14,13 +14,13 @@ public class PersonTest {
 		System.out.println("결혼여부:"+James.getMarried());
 		System.out.println("자녀 수:"+James.getNumberOfChildren());
 	
-    Person Yohan = new Person();
-    Yohan.age = 23;
-    Yohan.name ="이요한";
-    Yohan.married = false;
-    Yohan.NumberOfChildren = 0;
+   		Person Yohan = new Person();
+    		Yohan.age = 23;
+    		Yohan.name ="이요한";
+    		Yohan.married = false;
+    		Yohan.NumberOfChildren = 0;
     
-    System.out.println("나이:"+Yohan.getAge());
+   		System.out.println("나이:"+Yohan.getAge());
 		System.out.println("이름:"+Yohan.getName());
 		System.out.println("결혼여부:"+Yohan.getMarried());
 		System.out.println("자녀 수:"+Yohan.getNumberOfChildren());
