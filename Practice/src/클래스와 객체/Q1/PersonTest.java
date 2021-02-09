@@ -1,4 +1,4 @@
-package Q3;
+package Q1;
 
 public class PersonTest {
 
